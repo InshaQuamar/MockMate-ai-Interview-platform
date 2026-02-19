@@ -1,6 +1,3 @@
-<div align="center">
-<img width="1200" alt="MockMate Interview Screenshot" src="photo/Screenshot 2026-02-19 172429.png" />
-</div>
 
 
 ## Run Locally
