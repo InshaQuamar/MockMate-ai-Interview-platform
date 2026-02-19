@@ -1,0 +1,8 @@
+
+{
+  "name": "MockMate - Virtual Interview Practice System",
+  "description": "A comprehensive web application for students to practice technical and HR interviews with standardized reference answers and automated score calculation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
